@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/*
+    @Author Travis Barber
+    @Version 6/19/2019
+ */
+
 public class Student {
 
     private String firstname;
@@ -11,7 +16,7 @@ public class Student {
     private static int costOfCourse = 600;
     private double balance;
 
-
+    //Initializing the constructor
     public Student() {
         Scanner scan = new Scanner(System.in);
         System.out.print("Please enter the students first name: ");
