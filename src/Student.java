@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 /*
+    Description: fecthes new user data (first and last name), asks what classes they are registering for and assigns 
+                 appropriately, and then calculates/pays the tuition balance.
     @Author Travis Barber
     @Version 6/19/2019
  */
